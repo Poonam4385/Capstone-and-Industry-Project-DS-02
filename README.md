@@ -1,5 +1,7 @@
 # 🚀 Nationwide Demand Forecasting & Inventory Optimization
 
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-OPEN-success?style=for-the-badge&logo=plotly)](https://nationwide-demand-inventory-dashboard.onrender.com)
+
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![LightGBM](https://img.shields.io/badge/ML-LightGBM-success)](https://lightgbm.readthedocs.io/)
 [![PyTorch](https://img.shields.io/badge/Deep%20Learning-PyTorch-red?logo=pytorch)](https://pytorch.org/)
@@ -12,7 +14,18 @@ End-to-end retail AI project using the Walmart M5 dataset to forecast demand, qu
 
 ## 🌐 Live Dashboard
 
-🚀 **Live dashboard link will be added after Render deployment.**
+<p align="center">
+
+## 🚀 Live Interactive Dashboard
+
+### 👉 [OPEN LIVE DASHBOARD](https://nationwide-demand-inventory-dashboard.onrender.com)
+
+Explore forecasts, prediction intervals, inventory recommendations,
+stockout risks and store-level demand interactively.
+
+</p>
+
+**Dashboard URL:** [https://nationwide-demand-inventory-dashboard.onrender.com](https://nationwide-demand-inventory-dashboard.onrender.com)
 
 ## 📊 Final Results
 
