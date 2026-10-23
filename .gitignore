@@ -1,0 +1,22 @@
+# Credentials
+kaggle.json
+.env
+.env.*
+GITHUB_TOKEN
+github_token.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large / raw data
+data/
+*.ckpt
+
+# System
+.DS_Store
+Thumbs.db

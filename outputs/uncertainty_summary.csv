@@ -1,0 +1,6 @@
+Model,Nominal_Coverage_%,Actual_Coverage_%
+LightGBM Conformal,90,90.0
+LightGBM Series Conformal,90,89.28571428571429
+TFT Quantile 80%,80,76.73663324979114
+TFT Quantile 90%,90,86.17585630743525
+Prophet 90%,90,88.69047619047619

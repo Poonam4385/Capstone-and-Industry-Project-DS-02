@@ -1,0 +1,13 @@
+KPI,Value
+Baseline_WAPE_%,46.11
+LightGBM_WAPE_%,40.69
+LightGBM_RMSSE,0.8103
+TFT_WAPE_%,31.33
+Prophet_WAPE_%,30.03
+National_WAPE_%,3.61
+Items_Optimized,450.0
+Items_Ordered,364.0
+Recommended_Order_Units,18664.0
+Order_Value_USD,26356.9
+Expected_Shortage_Units,4242.85
+High_Risk_Items,133.0

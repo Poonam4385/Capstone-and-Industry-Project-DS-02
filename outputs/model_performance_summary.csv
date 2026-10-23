@@ -1,0 +1,5 @@
+Model,WAPE_%,Scope
+Rolling-28 Baseline,46.11214102049989,450 series
+LightGBM,40.69416623694261,450 series
+TFT,31.325820922851562,60-series benchmark
+Prophet,30.032113880301488,12-series benchmark

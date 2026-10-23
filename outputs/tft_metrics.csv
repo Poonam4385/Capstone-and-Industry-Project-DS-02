@@ -1,0 +1,2 @@
+Model,Series,MAE,RMSE,WAPE_%,Matched_Baseline_WAPE_%
+Temporal Fusion Transformer,60,6.396451,8.68885,31.32582,34.67958986661496

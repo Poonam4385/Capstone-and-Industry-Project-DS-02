@@ -1,0 +1,10 @@
+Metric,Value
+Items Optimized,450.0
+Items Ordered,364.0
+Recommended Order Units,18664.0
+Order Value USD,26356.9
+Expected Shortage Units,4242.85
+High Risk Items,133.0
+National Reconciled WAPE,3.61
+LightGBM Test WAPE,39.27
+LightGBM Test RMSSE,0.8011

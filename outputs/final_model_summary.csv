@@ -1,0 +1,9 @@
+Model,WAPE_%,Scope
+Rolling-28 Validation,46.11214102049989,450 series
+LightGBM Validation,40.69416623694261,450 series
+Rolling-28 Test,44.43388113151862,450 series
+LightGBM Test,39.26834824246123,450 series
+TFT Benchmark,31.325820922851562,60 selected series
+TFT Matched Baseline,34.67958986661496,Same 60 TFT series
+Prophet Benchmark,30.032113880301488,12 selected series
+Prophet Matched Baseline,31.148375242510845,Same 12 Prophet series
